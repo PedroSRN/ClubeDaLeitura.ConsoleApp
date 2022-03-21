@@ -12,6 +12,12 @@ namespace ClubeDaLeitura.ConsoleApp
         public string revistaQueEmprestou;
         public DateTime dataQueEmprestou;
         public DateTime dataQueDevolveu;
+        public string status;
+
+        public enum StatusDeEmprestimo
+        {
+            Aberto, Fechado
+        }
       
     }
 }

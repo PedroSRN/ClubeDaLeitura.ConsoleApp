@@ -14,14 +14,5 @@ namespace ClubeDaLeitura.ConsoleApp
                 menu.ValidarOpcaoMenu();
             }
         }
-           
-           
-           
-
-           
-
-          
-  
-        
     }
 }

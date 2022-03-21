@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClubeDaLeitura.ConsoleApp
 {
-    public class Caixa
+    public class Reserva
     {
-        public string cor;
-        public string etiqueta;
-        public int numero;
-        
-    
+        public DateTime dataDaReserva;
+        public string revistaReservada;
+        public string amigoDaReserva;
+
     }
 }
-

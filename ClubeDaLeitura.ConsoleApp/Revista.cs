@@ -13,6 +13,6 @@ namespace ClubeDaLeitura.ConsoleApp
         public string tipoDaRevista;
         public int numeroEdicao;
         public int anoRevista;
-   
+        public string caixaRevista;
     }
 }
